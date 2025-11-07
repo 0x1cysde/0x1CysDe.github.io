@@ -9,24 +9,24 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Africa/Cairo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: 0x1CysDe Red Team Enginner
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: My name is Sherif im working a cyber security 
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
+# E.g. 'https://0x1CysDe.github.io', note that it does not end with a '/'.
 url: "0x1cysde.work.gd"
 
 github:
-  username: github_username # change to your GitHub username
+  username: 0x1CysDe # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
