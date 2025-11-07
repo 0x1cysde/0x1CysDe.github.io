@@ -14,7 +14,7 @@ timezone: Africa/Cairo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sherifmonuir Red Team Enginner
+title: 0x1CysDe
 
 tagline: My name is Sherif im working a cyber security 
 
@@ -41,7 +41,7 @@ social:
     #- https://x.com/RyuzakiRyuga666 # change to your Twitter homepage
     #- https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
-     - https://www.facebook.com/CyAlarm
+    # - https://www.facebook.com/CyAlarm
      - https://www.linkedin.com/in/smjaldin
 
 # Site Verification Settings
